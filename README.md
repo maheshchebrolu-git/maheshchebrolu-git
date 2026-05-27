@@ -63,14 +63,6 @@ databases  = ["PostgreSQL", "pgvector", "PostGIS", "MySQL",
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshchebrolu-git&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshchebrolu-git&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🎓 Education
 
@@ -81,6 +73,6 @@ databases  = ["PostgreSQL", "pgvector", "PostGIS", "MySQL",
 ---
 
 <p align="center">
-  <i>Open to: Software Engineer · AI/ML Engineer</i><br>
+  <i>Open to: Software Engineer · AI/ML Engineer roles.</i><br>
   <i>📬 <a href="mailto:mahesh.chebrolu.dev@gmail.com">mahesh.chebrolu.dev@gmail.com</a></i>
 </p>
